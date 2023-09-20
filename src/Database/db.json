@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "dd",
+      "username": "dddd",
+      "email": "dd@gmail.com",
+      "phone": "1231231230",
+      "city": "pune",
+      "id": 8
+    },
+    {
+      "name": "admin",
+      "username": "admin123",
+      "email": "admin@gmail.com",
+      "phone": "0001112223",
+      "city": "ahmedabad",
+      "id": 9
+    },
+    {
+      "name": "komal",
+      "username": "kp123",
+      "email": "ajdkfj@cfjffjk",
+      "phone": "1236547899",
+      "city": "Nadiad",
+      "id": 10
+    },
+    {
+      "name": "krupa",
+      "username": "kfhfhf1256",
+      "email": "dmfjf@vkfjfff",
+      "phone": "7895621412",
+      "city": "Rajkot",
+      "id": 11
+    },
+    {
+      "name": "Anjana",
+      "username": "anju123",
+      "email": "anju.aksh72@gmail.com",
+      "phone": "7895632142",
+      "city": "Palanpur",
+      "id": 12
+    }
+  ]
+}
